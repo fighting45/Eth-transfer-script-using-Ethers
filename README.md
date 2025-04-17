@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # eth-fund-sender-nodejs
 🔁 ETH Fund Sender (Sepolia Testnet)
 This Node.js script uses the ethers.js library to:
