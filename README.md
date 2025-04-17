@@ -17,5 +17,3 @@ ethers.js – for Ethereum wallet and transaction operations
 
 Blast API – for Sepolia RPC access
 =======
-# My-repo
->>>>>>> c85df3f00a0293f084c194e996f3a2418d55d3bc
